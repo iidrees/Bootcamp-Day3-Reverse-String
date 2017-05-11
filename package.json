@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp_day3_reversestring",
+  "version": "1.0.0",
+  "description": "A program to return a reversed string",
+  "main": "reverseStringSpec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idrees Ibraheem",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
